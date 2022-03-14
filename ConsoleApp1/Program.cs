@@ -7,4 +7,5 @@ static void Main(string[] args)
     Console.WriteLine("namberrr");
     Console.WriteLine("deniyoruz bir şeyler.");
     Console.WriteLine("yedek brranchi knk");
+    Console.WriteLine("yedek brranchi knk");
 }
